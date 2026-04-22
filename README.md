@@ -14,16 +14,15 @@ Looking further head, once the classification is agreed upon, it might be possib
 
 ## Planning
 
-### Stage 1: landscape analysis - Vocabularies
+### Stage 1: Landscape Analysis - Vocabularies for Data Types and Formats
 
 **what vocabularies are used to classify data types, by which communities, and through which method?**
 
-* Start point: EDAM ontology and its [Data classification](https://bioportal.bioontology.org/ontologies/EDAM?p=classes&conceptid=http%3A%2F%2Fedamontology.org%2Fdata_0006)
-* files
+* [EDAM ontology](https://bioportal.bioontology.org/ontologies/EDAM) and its Data classification and (file) Format] classification  
+  * research in [docs/EDAM-overview.mnb](docs/EDAM-overview.mnb)
 
-![Detail of EDAM Data class children](media/EDAM-data.png)
 
-# Repository code
+# Run Repository code/notebook
 
 ## Python Virtual environment & requirements
 
