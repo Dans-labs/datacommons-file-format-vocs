@@ -41,5 +41,7 @@ In order to run SPARQL inside jupyter notebooks, this repo uses the [SPARQL Note
 This requires:
 
 * Install and enable the SPARQL Notebook extension
-* Set the local endpoint (.ttl or .rdf file) you want to query, byt mouse-right click on the file and select "SPARQL Notebook: use File as Store"
+* Set the local endpoint (.ttl or .rdf file) you want to query, by mouse-right-click on the file and select "SPARQL Notebook: use File as Store"
 * Remote endpoints can also be selected in SPARQL Connections panel
+
+Note: .sparqlbook files are not displayed nicely in Github. In order to make possible oters reading the .sparqlbook should be converted to markdown by, mouse-right-click on the file and select "SPARQL Notebook: Export to Markdown". This is far from idea, since it does not show the results of the cell execution.
