@@ -19,7 +19,7 @@ Looking further head, once the classification is agreed upon, it might be possib
 **what vocabularies are used to classify data types, by which communities, and through which method?**
 
 * [EDAM ontology](https://bioportal.bioontology.org/ontologies/EDAM) and its Data classification and (file) Format] classification  
-  * research in [docs/EDAM-overview.sparqlbook](docs/EDAM-overview.sparqlbook)
+  * research in [docs/EDAM-overview.ipynb](docs/EDAM-overview.ipynb)
 
 
 # Run Repository code/notebook
@@ -33,15 +33,3 @@ Create a virtual environment `python3 -m venv venv`
 Activate it: `source venv/bin/activate`
 
 Install Python requirements: `pip install -r requirements.txt`
-
-## Jupyter notebooks with SPARQL
-
-In order to run SPARQL inside jupyter notebooks, this repo uses the [SPARQL Notebook VScode extension](https://github.com/zazuko/vscode-sparql-notebook).
-
-This requires:
-
-* Install and enable the SPARQL Notebook extension
-* Set the local endpoint (.ttl or .rdf file) you want to query, by mouse-right-click on the file and select "SPARQL Notebook: use File as Store"
-* Remote endpoints can also be selected in SPARQL Connections panel
-
-Note: .sparqlbook files are not displayed nicely in Github. In order to make possible oters reading the .sparqlbook should be converted to markdown by, mouse-right-click on the file and select "SPARQL Notebook: Export to Markdown". This is far from idea, since it does not show the results of the cell execution.
