@@ -25,6 +25,12 @@ Looking further head, once the classification is agreed upon, it might be possib
   * <span style="background:yellow">TODO: what vocabularies reference the EDAM data type classes?</span>
 * **[NCBI Data subclasses](https://bioportal.bioontology.org/ontologies/NCIT?p=classes&conceptid=http%3A%2F%2Fncicb.nci.nih.gov%2Fxml%2Fowl%2FEVS%2FThesaurus.owl%23C25474)**
   * <span style="background:yellow">TODO:</span>
+  * research in NCBI: Data subclasses [docs/data-type-vocabs.ipynb##ncbi-data-subclasses](docs/data-type-vocabs.ipynb##ncbi-data-subclasses)
+* **Wikidata** instance of Data Type & subclass of data:
+  * query in [docs/data-type-vocabs.ipynb#wikidata](docs/data-type-vocabs.ipynb#wikidata)
+  * Conclusion: idosyncratic list of data formats, with not much information about each item:
+  * idosyncratic because: in addition to relevant concepts such as "Synthetic Data" or "Raw Data" there are a lot of non-useful concepts such as "Prison Data" or "Mobile Data" 
+
 
 ### Stage 2: Inteagration into Dataverse
 
