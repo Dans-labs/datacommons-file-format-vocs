@@ -21,7 +21,7 @@ Looking further head, once the classification is agreed upon, it might be possib
 
 * **[EDAM ontology](https://bioportal.bioontology.org/ontologies/EDAM)** and its Data classification and (file) Format classification  
   * Conclusion: limited and idosyncratic list of data formats.
-  * research in [docs/EDAM-overview.ipynb](docs/EDAM-overview.ipynb)
+  * research in [docs/data-type-vocabs.ipynb#data-types-and-formats-in-edam](docs/data-type-vocabs.ipynb#data-types-and-formats-in-edam)
   * <span style="background:yellow">TODO: what vocabularies reference the EDAM data type classes?</span>
 * **[NCBI Data subclasses](https://bioportal.bioontology.org/ontologies/NCIT?p=classes&conceptid=http%3A%2F%2Fncicb.nci.nih.gov%2Fxml%2Fowl%2FEVS%2FThesaurus.owl%23C25474)**
   * <span style="background:yellow">TODO:</span>
